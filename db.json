@@ -1,0 +1,90 @@
+{
+    "usersFake": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+        "age": 18,
+        "email": "gtatterton0@ehow.com"
+      },
+      {
+        "id": 2,
+        "name": "Gail Newbatt",
+        "age": 53,
+        "email": "gnewbatt1@un.org"
+      },
+      {
+        "id": 3,
+        "name": "Walliw Wilstead",
+        "age": 49,
+        "email": "wwilstead2@tripadvisor.com"
+      },
+      {
+        "id": 4,
+        "name": "Abran Proback",
+        "age": 29,
+        "email": "aproback3@theglobeandmail.com"
+      },
+      {
+        "id": 5,
+        "name": "Roda Chappelow",
+        "age": 31,
+        "email": "rchappelow4@oaic.gov.au"
+      },
+      {
+        "id": 6,
+        "name": "Karney Wylie",
+        "age": 22,
+        "email": "kwylie5@miitbeian.gov.cn"
+      },
+      {
+        "id": 7,
+        "name": "Cammi Pimbley",
+        "age": 63,
+        "email": "cpimbley6@nyu.edu"
+      },
+      {
+        "id": 8,
+        "name": "Gavra Manning",
+        "age": 43,
+        "email": "gmanning7@lycos.com"
+      },
+      {
+        "id": 9,
+        "name": "Zachary Seward",
+        "age": 45,
+        "email": "zseward8@oracle.com"
+      },
+      {
+        "id": 10,
+        "name": "Chucho Norssister",
+        "age": 20,
+        "email": "cnorssister9@mayoclinic.com"
+      }
+    ],
+    "hotels":[
+      {
+        "category": "family",
+        "image_url": "https://images.unsplash.com/photo-1606046604972-77cc76aee944?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aG90ZWxzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "type_of_room": "AC",
+        "bed_type": "single",
+        "no_of_persons": "4",
+        "capacity": "12",
+        "cost": "4567",
+        "booked": false,
+        "id": 1
+      },
+      {
+        "category": "deluxe",
+        "image_url": "https://images.unsplash.com/photo-1596386461350-326ccb383e9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdGVsc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "type_of_room": "AC",
+        "bed_type": "double",
+        "no_of_persons": "2",
+        "capacity": "6",
+        "cost": "5852",
+        "booked": false,
+        "id": 2
+      }
+    ],
+    "students":[],
+    "new":[]
+  }
